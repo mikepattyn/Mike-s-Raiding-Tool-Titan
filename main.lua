@@ -20,9 +20,9 @@ function TitanPanelMikesRaidingToolButton_OnLoad(self)
 end
 
 function TitanPanelMikesRaidingToolButtonGetText()
-    return MRT_TITLE
+    return HelloWorld();
 end
 
 function TitanPanelMikesRaidingToolTooltipGetText()
-    return MRT_TITLE
+    return HelloWorld();
 end
