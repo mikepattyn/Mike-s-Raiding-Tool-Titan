@@ -1,0 +1,11 @@
+## Interface: 90002
+## Title: Titan Panel [|cffeda55fMike's Raiding Tool|r] |cff00aa000.1-alpha.90002|r
+## Notes: A titan panel addon for Mike's Raiding Tool
+## Version: 0.1-alpha.90002
+## Author: Mike Pattyn
+## SavedVariables: 
+## OptionalDeps: 
+## Dependencies: Titan
+## X-Child-Of: Titan
+
+main.xml
